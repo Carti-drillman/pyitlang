@@ -1,0 +1,16 @@
+thatmat x = 10
+thatmat y = 20
+
+pya x
+phyay x = 15
+pya x
+
+mahsaw x > y {
+    pya "x is greater"
+} mahoat {
+    pya "x is not greater"
+}
+
+akyein 3 {
+    pya "Looping..."
+}
